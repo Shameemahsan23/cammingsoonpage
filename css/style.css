@@ -95,6 +95,11 @@ body{
     font-weight: 500;
 }
 
+.marquee a{
+    color: #FA5B0F;
+    text-decoration: none;
+}
+
 /* Coming soon area css end */
 
 
